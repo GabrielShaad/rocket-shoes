@@ -22,7 +22,7 @@ Developed on Ignite, a Rocketseat program.
 <table>
   <tr>
     <td><strong>Dashboard</strong></td>
-    <td><strong>Carrinho</strong></td>
+    <td><strong>Cart</strong></td>
   <tr>
    <tr>
     <td><img src="public/screens/home.png"></td>
